@@ -1,6 +1,7 @@
 #title 1
 content5
-master content
+<<<<<<< HEAD
+o2, master content
 
 
 #title 2
